@@ -1,0 +1,210 @@
+15:31:26:447 (3948) > --- NIXXES log start ---
+15:31:26:744 (3948) > 
+15:31:26:916 (3948) > Memory statistics:
+15:31:27:119 (3948) >   Total RAM = 3.9 GB (4016 MB)
+15:31:27:338 (3948) >   Avail RAM = 2.1 GB (2141 MB)
+15:31:27:557 (3948) >   Total virtual memory = 4.0 GB (4095 MB)
+15:31:27:729 (3948) >   Avail virtual memory = 3.4 GB (3455 MB)
+15:31:27:901 (3948) > OS = Windows 8 (build 9200)
+15:31:28:072 (3948) > Starting Tomb Raider v1.01.748.0
+15:31:38:479 (3948) > [Main] Current directory: D:\Program Files (x86)\R.G. Mechanics\Tomb Raider
+15:31:38:572 (3948) > Mounted TITLE.000
+15:31:38:822 (3948) > Mounted PATCH.000
+15:31:38:916 (3948) > Mounted PATCH2.000
+15:31:39:930 (3948) > [Render] PCDeviceManager constructor start
+15:31:40:070 (3948) > [Render] PCDeviceManager constructor end
+15:31:40:508 (3948) > [Render] PCDX11DeviceManager constructor start
+15:31:40:508 (3948) > D3D Adapter Information:
+15:31:40:523 (3948) > Adapter Description: NVIDIA GeForce 920M
+15:31:40:539 (3948) > VendorID: 10de
+15:31:40:555 (3948) > DeviceID: 1299
+15:31:40:555 (3948) > Revision: a1
+15:31:40:570 (3948) > NVidia hardware detected. Attemping to load NVAPI...
+15:31:40:586 (3948) > NVAPI loaded succesfully.
+15:31:40:617 (3948) > NvAPI_Stereo_IsEnabled() returned an error: -140
+15:31:40:648 (3948) > Reducing mouse lag by setting frame latency to 1...
+15:31:40:648 (3948) > D3D reports feature level 11 is supported.
+15:31:40:773 (3948) > NVAPI Depth Bounds Test supported.
+15:31:40:851 (3948) > D3D Adapter Information:
+15:31:40:851 (3948) > Adapter Description: Intel(R) HD Graphics Family
+15:31:40:867 (3948) > VendorID: 8086
+15:31:40:883 (3948) > DeviceID: a16
+15:31:40:898 (3948) > Revision: b
+15:31:40:945 (3948) > Reducing mouse lag by setting frame latency to 1...
+15:31:40:961 (3948) > D3D reports feature level 11 is supported.
+15:31:40:977 (3948) > D3D reports no hardware multiple command list support.
+15:31:41:039 (3948) > [Render] Adapter I has no outputs!
+15:31:41:055 (3948) > D3D Adapter Information:
+15:31:41:055 (3948) > Adapter Description: Microsoft Basic Render Driver
+15:31:41:070 (3948) > VendorID: 1414
+15:31:41:086 (3948) > DeviceID: 8c
+15:31:41:086 (3948) > Revision: 0
+15:31:41:148 (3948) > Reducing mouse lag by setting frame latency to 1...
+15:31:41:164 (3948) > D3D reports feature level 11 is supported.
+15:31:41:180 (3948) > D3D reports no hardware multiple command list support.
+15:31:41:195 (3948) > D3D reports no hardware concurrent creates.
+15:31:41:211 (3948) > [Render] Adapter M has no outputs!
+15:31:41:211 (3948) > [Render] PCDX11DeviceManager constructor end
+15:32:01:999 (3948) > CPU count: logical = 4, cores = 2, physical = 1
+15:32:02:030 (3948) > D3D Adapter Information:
+15:32:02:030 (3948) > Adapter Description: NVIDIA GeForce 920M
+15:32:02:062 (3948) > VendorID: 10de
+15:32:02:077 (3948) > DeviceID: 1299
+15:32:02:077 (3948) > Revision: a1
+15:32:02:093 (3948) > NVidia hardware detected. Attemping to load NVAPI...
+15:32:02:109 (3948) > NVAPI loaded succesfully.
+15:32:02:109 (3948) > NvAPI_Stereo_IsEnabled() returned an error: -140
+15:32:02:373 (3948) > Reducing mouse lag by setting frame latency to 1...
+15:32:02:389 (3948) > D3D reports feature level 11 is supported.
+15:32:02:404 (3948) > NVAPI Depth Bounds Test supported.
+15:32:02:498 (7768) > CreateSwapChain() = 0
+15:32:02:561 (7768) > MakeWindowAssociation() = 0
+15:32:03:936 (7768) > SetFullscreenState() = 0
+15:32:04:420 (3948) > [Render] Using DirectX 11
+15:32:04:764 (3948) > Initalizing audio...
+15:32:04:842 (3948) > Audio device found. FMOD reports 1 driver(s).
+15:32:04:873 (3948) > Audio Driver Name: Speakers (Realtek High Definition Audio)
+15:32:04:873 (3948) > Speaker Mode: 2
+15:32:10:785 (3948) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+15:32:10:854 (3948) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+15:32:10:866 (3948) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+15:32:10:866 (3948) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+15:32:10:885 (3948) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+15:32:10:885 (3948) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+15:32:10:905 (3948) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+15:32:10:905 (3948) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+15:32:10:932 (3948) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+15:32:10:943 (3948) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+15:32:10:955 (3948) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+15:32:10:965 (3948) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+15:32:10:977 (3948) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+15:32:10:985 (3948) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+15:32:10:985 (3948) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+15:32:11:010 (3948) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+15:32:11:021 (3948) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+15:32:11:043 (3948) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+15:32:11:055 (3948) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+15:32:11:055 (3948) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+15:32:11:077 (3948) > [DLC] mounted pack 3 - 0x00000001 (steam id=208809)
+15:32:11:086 (3948) > [DLC] mounted pack 3 - 0x00000002 (steam id=208817)
+15:32:11:086 (3948) > [DLC] mounted pack 3 - 0x00000004 (steam id=208818)
+15:32:11:245 (3948) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+15:32:11:296 (3948) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+15:32:12:770 (3948) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+15:32:21:649 (3948) > Request (SEM_Login) [Id:0] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:22:471 (3948) > Request (GetTodaysInfocast) [Id:1] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:22:954 (3948) > Request (GetOptionsSet) [Id:2] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:36:358 (3948) > Request (GetPlayerProfileFrom) [Id:3] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:37:675 (3948) > Request (GetTodaysInfocast) [Id:4] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:38:152 (3948) > Request (GetOptionsSet) [Id:5] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:44:335 (3948) > Request (GetTodaysInfocast) [Id:6] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:32:44:804 (3948) > Request (GetOptionsSet) [Id:7] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:33:04:110 (3948) > Player object AddRef laracroft: 1 => 2
+15:33:04:146 (3948) > Player object AddRef laracroft: 2 => 3
+15:33:04:174 (3948) > Player object AddRef laracroft: 3 => 4
+15:33:25:617 (3948) > Request (GetPlayerProfileFrom) [Id:8] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:33:50:692 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:33:50:734 (3948) > PCDX11RenderContext::Resize(1366, 768, True)
+15:33:50:749 (7768) > ResizeSwapChain(1366,768) == 0
+15:34:56:979 (3948) > Request (GetPlayerProfileFrom) [Id:9] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:37:55:481 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:37:55:495 (3948) > PCDX11RenderContext::Resize(1366, 768, True)
+15:37:55:508 (7768) > ResizeSwapChain(1366,768) == 0
+15:38:11:163 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:38:11:195 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:38:11:205 (3948) > PCDX11RenderContext::Resize no change
+15:38:34:086 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:38:34:134 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:38:34:136 (3948) > PCDX11RenderContext::Resize no change
+15:40:11:636 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:40:11:658 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:40:11:668 (3948) > PCDX11RenderContext::Resize no change
+15:43:18:647 (3948) > Request (GetPlayerProfileFrom) [Id:10] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:44:13:193 (3948) > Player object RemRef laracroft: 4 => 3
+15:44:13:226 (3948) > Player object RemRef laracroft: 3 => 2
+15:44:13:247 (3948) > Player object RemRef laracroft: 2 => 1
+15:44:15:351 (3948) > Player object AddRef laracroft: 1 => 2
+15:44:15:384 (3948) > Player object AddRef laracroft: 2 => 3
+15:44:15:411 (3948) > Player object AddRef laracroft: 3 => 4
+15:44:44:592 (3948) > Player object RemRef laracroft: 4 => 3
+15:45:55:773 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:45:55:894 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:45:55:896 (3948) > PCDX11RenderContext::Resize no change
+15:46:14:556 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:46:14:577 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:46:14:600 (3948) > PCDX11RenderContext::Resize no change
+15:46:38:985 (3948) > Player object AddRef laracroft: 3 => 4
+15:46:48:115 (3948) > Request (GetPlayerProfileFrom) [Id:11] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:51:02:675 (3948) > Request (GetPlayerProfileFrom) [Id:12] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:51:34:177 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:51:34:207 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:51:34:229 (3948) > PCDX11RenderContext::Resize no change
+15:51:56:817 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:51:56:837 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:51:56:861 (3948) > PCDX11RenderContext::Resize no change
+15:52:01:955 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:52:02:062 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:52:02:076 (3948) > PCDX11RenderContext::Resize no change
+15:52:11:259 (3948) > DX11RenderContext:---OnSettingsChanged ---
+15:52:11:292 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+15:52:11:297 (3948) > PCDX11RenderContext::Resize no change
+15:52:28:255 (3948) > Request (GetPlayerProfileFrom) [Id:13] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+15:57:55:836 (3948) > Request (GetPlayerProfileFrom) [Id:14] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:01:30:136 (3948) > DX11RenderContext:---OnSettingsChanged ---
+16:01:30:158 (3948) > PCDX11RenderContext::Resize(1366, 768, False)
+16:01:30:178 (3948) > PCDX11RenderContext::Resize no change
+16:03:07:718 (3948) > Request (GetPlayerProfileFrom) [Id:15] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:08:21:678 (3948) > Player object RemRef laracroft: 4 => 3
+16:08:24:703 (3948) > Request (GetPlayerProfileFrom) [Id:16] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:09:09:373 (3948) > Player object AddRef laracroft: 3 => 4
+16:09:41:300 (3948) > Request (GetPlayerProfileFrom) [Id:17] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:11:45:737 (3948) > DX11RenderContext:---OnSettingsChanged ---
+16:11:45:765 (3948) > PCDX11RenderContext::Resize(1366, 768, True)
+16:11:45:779 (7768) > ResizeSwapChain(1366,768) == 0
+16:13:28:442 (3948) > Player object RemRef laracroft: 4 => 3
+16:13:43:309 (3948) > Player object RemRef laracroft: 3 => 2
+16:13:43:344 (3948) > Player object RemRef laracroft: 2 => 1
+16:13:45:537 (3948) > Player object AddRef laracroft: 1 => 2
+16:13:45:568 (3948) > Player object AddRef laracroft: 2 => 3
+16:13:45:595 (3948) > Player object AddRef laracroft: 3 => 4
+16:13:45:824 (3948) > Player object RemRef laracroft: 4 => 3
+16:14:34:938 (3948) > Player object AddRef laracroft: 3 => 4
+16:18:48:629 (3948) > Request (GetPlayerProfileFrom) [Id:18] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:23:50:973 (3948) > Request (GetPlayerProfileFrom) [Id:19] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:31:53:200 (3948) > Player object RemRef laracroft: 4 => 3
+16:31:53:220 (3948) > Player object RemRef laracroft: 3 => 2
+16:31:53:247 (3948) > Player object RemRef laracroft: 2 => 1
+16:31:55:641 (3948) > Player object AddRef laracroft: 1 => 2
+16:31:55:662 (3948) > Player object AddRef laracroft: 2 => 3
+16:31:55:670 (3948) > Player object AddRef laracroft: 3 => 4
+16:32:21:734 (3948) > Player object RemRef laracroft: 4 => 3
+16:32:21:769 (3948) > Player object RemRef laracroft: 3 => 2
+16:32:21:777 (3948) > Player object RemRef laracroft: 2 => 1
+16:32:24:049 (3948) > Player object AddRef laracroft: 1 => 2
+16:32:24:095 (3948) > Player object AddRef laracroft: 2 => 3
+16:32:24:119 (3948) > Player object AddRef laracroft: 3 => 4
+16:34:01:307 (3948) > Player object RemRef laracroft: 4 => 3
+16:34:01:480 (3948) > Player object AddRef laracroft: 3 => 4
+16:41:40:147 (3948) > Request (GetPlayerProfileFrom) [Id:20] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:41:42:801 (3948) > Request (GetPlayerProfileFrom) [Id:21] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:41:52:721 (3948) > Request (GetPlayerProfileFrom) [Id:22] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:43:16:095 (3948) > Player object RemRef laracroft: 4 => 3
+16:43:16:129 (3948) > Player object RemRef laracroft: 3 => 2
+16:43:16:141 (3948) > Player object RemRef laracroft: 2 => 1
+16:43:18:330 (3948) > Player object AddRef laracroft: 1 => 2
+16:43:18:345 (3948) > Player object AddRef laracroft: 2 => 3
+16:43:18:368 (3948) > Player object AddRef laracroft: 3 => 4
+16:46:05:023 (3948) > Player object RemRef laracroft: 4 => 3
+16:46:05:037 (3948) > Player object RemRef laracroft: 3 => 2
+16:46:05:050 (3948) > Player object RemRef laracroft: 2 => 1
+16:46:07:199 (3948) > Player object AddRef laracroft: 1 => 2
+16:46:07:236 (3948) > Player object AddRef laracroft: 2 => 3
+16:46:07:241 (3948) > Player object AddRef laracroft: 3 => 4
+16:52:12:154 (3948) > Player object RemRef laracroft: 4 => 3
+16:52:13:542 (3948) > Player object AddRef laracroft: 3 => 4
+16:52:57:221 (3948) > Player object RemRef laracroft: 4 => 3
+16:52:58:083 (3948) > Player object AddRef laracroft: 3 => 4
+16:58:05:068 (3948) > Request (GetPlayerProfileFrom) [Id:23] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+16:59:07:235 (3948) > Request (GetPlayerProfileFrom) [Id:24] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+17:00:17:054 (3948) > Request (GetPlayerProfileFrom) [Id:25] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+17:08:46:155 (3948) > Exiting the game.
